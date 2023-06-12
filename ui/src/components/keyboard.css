@@ -1,0 +1,22 @@
+.keyboard{
+    display: flex;
+    gap: 2rem;
+    justify-content: center;
+}
+.key{
+    width: 13%;
+    height: 18vh;
+    font-size: 24px;
+}
+
+.spec-key{
+    width: 10vw;
+    height: 18vh;
+    font-size: 24px;
+}
+
+.keyrow{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}

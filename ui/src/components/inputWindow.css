@@ -1,0 +1,17 @@
+.input-window{
+    display: flex;
+    margin: 2vh auto;
+    flex-direction: column;
+    gap: 3rem;
+}
+
+.value-field{
+    width: 40%;
+    margin: auto;
+    height: 80px;
+    background-color: rgba(20,20,20, 0.1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 36px;
+}

@@ -1,0 +1,23 @@
+.card {
+    border-radius: 6%/15%;
+    width: 30%;
+    height: 190px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0 3px 8px;
+    padding: 20px;
+    position: relative;
+    transition: .5s;
+}
+
+.card:hover{
+    box-shadow: rgba(0, 0, 0, 0.36) 0 6px 16px;
+}
+
+.landing-page{
+    display: flex;
+    width: 70%;
+    height: 70vh;
+    margin: auto;
+    margin-top: 15vh;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
